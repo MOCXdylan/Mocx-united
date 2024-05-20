@@ -16,9 +16,9 @@
 	{
 		"name": "Giant Death Robot",
 		"unitType": "Armored",
-		"movement": 5,
-		"strength": 150,
-		"cost": 425,
+		"movement": 3,
+		"strength": 100,
+		"cost": 325,
 		"requiredTech": "Electronics",
 		"requiredResource": "Gunpowder",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
