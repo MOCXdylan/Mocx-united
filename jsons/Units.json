@@ -13,4 +13,15 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
+	{
+		"name": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Electronics",
+		"requiredResource": "Gunpowder",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
 ]
