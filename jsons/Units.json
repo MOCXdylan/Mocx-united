@@ -1,17 +1,31 @@
 [
 	{
-		"name": "Phasers",
+		"name": "mocx squad",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Mocx",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
+		"strength": 100,
 		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"range": 3,
+		"cost": 550,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
+	{
+		"name": "mocx spark",
+		"unitType": "Ranged",
+		"uniqueTo": "Mocx",
+		"replaces": "Giant Death Robot",
+		"movement": 6,
+		"strength": 160,
+		"rangedStrength": 36,
+		"range": 3,
+		"cost": 550,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
