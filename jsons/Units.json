@@ -14,7 +14,7 @@
 		"attackSound": "phasers"
 	}
 	{
-		"name": "Giant Death Robot",
+		"name": "spark",
 		"unitType": "Armored",
 		"movement": 3,
 		"strength": 100,
