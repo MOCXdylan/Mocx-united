@@ -13,15 +13,4 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
-	{
-		"name": "spark",
-		"unitType": "Armored",
-		"movement": 3,
-		"strength": 100,
-		"cost": 325,
-		"requiredTech": "Electronics",
-		"requiredResource": "Gunpowder",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "gdrAttack"
-	},
 ]
